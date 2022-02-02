@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #094120;
   padding: 15px;
 }
 header ul {
@@ -17,25 +17,25 @@ header p {
   display: inline-block;
 }
 .heroImg {
-  background-color: #EBEBEB;
+  background-color: #f0cd9f;
   padding: 100px 15px;
 }
 .content {
   max-width: 300px;
   margin: 0 auto;
   padding: 50px;
-  background-color: #FFFFFF;
+  background-color: #aba6f8;
   text-align: center;
 }
 button {
   padding: 15px;
-  background-color: #373738;
+  background-color: #8a008f;
   color: white;
   font-size: 15px;
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #094120;
   padding: 5px;
   color: white;
 }
@@ -51,11 +51,13 @@ footer li {
   text-align: center;
   padding: 15px 5px;
   font-size: 30px;
+  background-color: #f0cd9f;
 }
 /* My UX Skills Section */
 .flexContainer {
   display: flex;
   padding: 60px 30px;
+  background-color: #f0cd9f;
 }
 .flexContainer div {
   width: 33%;
@@ -66,7 +68,7 @@ footer li {
 .myWork {
   padding: 60px 30px;
   padding-top: 0;
-  background-color: #EBEBEB;
+  background-color: #f0cd9f;
 }
 .workGrid {
   display: grid;
