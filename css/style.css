@@ -1,6 +1,13 @@
 body {
   margin: 0;
 }
+p {
+  font-family: Tahoma, Verdana, sans-serif;
+  }
+h3 {font-family: Tahoma, Verdana, sans-serif;}
+h1 {font-family: Tahoma, Verdana, sans-serif;}
+h4 {font-family: Tahoma, Verdana, sans-serif;}
+li {font-family: Tahoma, Verdana, sans-serif;}
 header {
   background-color: #094120;
   padding: 15px;
@@ -17,19 +24,20 @@ header p {
   display: inline-block;
 }
 .heroImg {
-  background-color: #f0cd9f;
+  background-color: #F0EFE5;
   padding: 100px 15px;
 }
 .content {
   max-width: 300px;
+  border-radius: 25px;
   margin: 0 auto;
   padding: 50px;
-  background-color: #aba6f8;
+  background-color: #DAB750;
   text-align: center;
 }
 button {
   padding: 15px;
-  background-color: #8a008f;
+  background-color: #516ebe;
   color: white;
   font-size: 15px;
   border-radius: 4px;
@@ -51,13 +59,14 @@ footer li {
   text-align: center;
   padding: 15px 5px;
   font-size: 30px;
-  background-color: #f0cd9f;
+  font-family: Tahoma, Verdana, sans-serif; 
+  background-color: #F0EFE5;
 }
 /* My UX Skills Section */
 .flexContainer {
   display: flex;
   padding: 60px 30px;
-  background-color: #f0cd9f;
+  background-color: #F0EFE5;
 }
 .flexContainer div {
   width: 33%;
@@ -68,7 +77,7 @@ footer li {
 .myWork {
   padding: 60px 30px;
   padding-top: 0;
-  background-color: #f0cd9f;
+  background-color: #F0EFE5;
 }
 .workGrid {
   display: grid;
